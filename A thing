@@ -1,2 +1,7 @@
+import time, random, os
 z = input("lol")
 print(z)
+time.sleep(1)
+os.system("clear")
+print(random.randint(8))
+# This is a comment.
